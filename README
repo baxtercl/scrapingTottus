@@ -1,0 +1,5 @@
+#
+Busqueda de categoria con slug: https://www.tottus.cl/api/product-search/by-category-slug?slug=cervezas-cat010403&sort=score&page=1&perPage=500
+Categorias con slug: https://www.tottus.cl/api/categories/by-slug/cervezas-cat010403
+Categorias: https://www.tottus.cl/api/categories
+Setting: https://www.tottus.cl/api/content/settings
